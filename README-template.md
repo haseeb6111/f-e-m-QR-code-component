@@ -4,28 +4,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
-### Screenshot
-
-### Links
-
-## My process
-
 ### Built with
+    
+    HTML5
+    CSS3
 
 ## Author
 
@@ -33,3 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Github - [haseeb6111](https://www.github.com/haseeb6111)
 
 ## Acknowledgments
+  I first made myself but then I looked up Mr.Coder from YouTube and I noticed that I had waste styles and his method was easier so I took some help from his code 
+
+  Mr.Coder's YT link
+  https://www.youtube.com/watch?v=5BBYPntB-GY&ab_channel=MrCoder
